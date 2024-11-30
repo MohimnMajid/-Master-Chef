@@ -124,7 +124,7 @@ footer {
         scale: 2.5;
     }
     body {
-        background-image: url('https://marketplace.canva.com/EAFpeiTrl4c/1/0/1600w/canva-abstract-chef-cooking-restaurant-free-logo-9Gfim1S8fHg.jpg');
+        background-image: url('bluredLogo.png');
         background-size: contain;
         backdrop-filter: blur(3px);
         padding-bottom: 100%;
